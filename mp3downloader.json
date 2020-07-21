@@ -5,5 +5,5 @@
     "version_code":5,
     "version_name":"2.0",
     "desc":"(AD) -> MP3 Downloader (No Ads)",
-    "is_force":true
+    "is_force":false
 }
